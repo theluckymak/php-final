@@ -1,0 +1,4 @@
+{
+  "log_directory": "/path/to/logs",
+  "data_directory": "/path/to/data"
+}
